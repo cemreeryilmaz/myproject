@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AracSatis.master.cs" Inherits="WebAppArac.AracSatis" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="nav" style="width:100%; height:50px; background-color:orange">
+        <a href="AnaSayfa.aspx">Ana Sayfa</a>
+        <a href="UyeGirisi.aspx">Uye Girişi</a>
+        <a href="KayitOl.aspx">Kayıt Ol</a>
+        <div id="LoginUserName" style="float:right; width:250px; height:auto">
+            <asp:Label ID="LabelUserName" runat="server" Text=""></asp:Label>
+            <asp:LinkButton ID="LinkButtonLogout" runat="server" OnClick="LinkButtonLogout_Click">ÇIKIŞ</asp:LinkButton>
+        </div>
+    </div>
+    <div id="content" style="width:100%; height:500px; background-color:teal">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppArac", "WebAppArac\WebAppArac.csproj", "{94658BE8-0F07-4368-9B2B-4E878D232E21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessArac", "BusinessArac\BusinessArac.csproj", "{F7B05700-1471-40F4-9471-FFF45204107D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccesArac", "DataAccesArac\DataAccesArac.csproj", "{D4A39A49-F107-4275-9533-EB4224FB6C41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94658BE8-0F07-4368-9B2B-4E878D232E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94658BE8-0F07-4368-9B2B-4E878D232E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94658BE8-0F07-4368-9B2B-4E878D232E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94658BE8-0F07-4368-9B2B-4E878D232E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B05700-1471-40F4-9471-FFF45204107D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B05700-1471-40F4-9471-FFF45204107D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B05700-1471-40F4-9471-FFF45204107D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B05700-1471-40F4-9471-FFF45204107D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4A39A49-F107-4275-9533-EB4224FB6C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A39A49-F107-4275-9533-EB4224FB6C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A39A49-F107-4275-9533-EB4224FB6C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A39A49-F107-4275-9533-EB4224FB6C41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

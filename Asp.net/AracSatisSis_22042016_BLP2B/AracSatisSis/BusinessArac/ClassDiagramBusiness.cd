@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BusinessArac.Kullanici" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIMAAAAAAAAAAAEAAAAAAAAAAAooAIACKACAAACDAQg=</HashCode>
+      <FileName>Kullanici.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessArac.Il" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Il.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessArac.Ilce" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAIAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Ilce.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessArac.Tur" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessArac.Marka" Collapsed="true">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAEAAAgAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Marka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessArac.Model" Collapsed="true">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAAQAAAAEA=</HashCode>
+      <FileName>Model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessArac.Vites" Collapsed="true">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAABABAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vites.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessArac.Yakit" Collapsed="true">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAEAAAAAAAAAAAAAAQAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Yakit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessArac.Kasa" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAABAAAAEAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Kasa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessArac.Ilan" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAAAAAgAQAQAAEEEEAAIEBAEEBAQBBBACAAAQIgAAUA=</HashCode>
+      <FileName>Ilan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

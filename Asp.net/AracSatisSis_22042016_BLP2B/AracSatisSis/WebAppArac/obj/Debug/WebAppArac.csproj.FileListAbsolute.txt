@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\AracSatisSis\WebAppArac\bin\WebAppArac.dll.config
+C:\Users\Administrator\Desktop\AracSatisSis\WebAppArac\bin\WebAppArac.dll
+C:\Users\Administrator\Desktop\AracSatisSis\WebAppArac\bin\WebAppArac.pdb
+C:\Users\Administrator\Desktop\AracSatisSis\WebAppArac\obj\Debug\WebAppArac.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AracSatisSis\WebAppArac\obj\Debug\WebAppArac.dll
+C:\Users\Administrator\Desktop\AracSatisSis\WebAppArac\obj\Debug\WebAppArac.pdb
+C:\Users\Administrator\Desktop\AracSatisSis\WebAppArac\bin\BusinessArac.dll
+C:\Users\Administrator\Desktop\AracSatisSis\WebAppArac\bin\BusinessArac.pdb
+C:\Users\Administrator\Desktop\AracSatisSis\WebAppArac\bin\DataAccesArac.dll
+C:\Users\Administrator\Desktop\AracSatisSis\WebAppArac\bin\DataAccesArac.pdb
