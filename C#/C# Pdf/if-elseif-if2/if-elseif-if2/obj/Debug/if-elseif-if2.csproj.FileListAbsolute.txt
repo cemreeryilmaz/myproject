@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\Slayt C#\if-elseif-if2\if-elseif-if2\bin\Debug\if-elseif-if2.exe.config
+C:\Users\HP\Desktop\Slayt C#\if-elseif-if2\if-elseif-if2\bin\Debug\if-elseif-if2.exe
+C:\Users\HP\Desktop\Slayt C#\if-elseif-if2\if-elseif-if2\bin\Debug\if-elseif-if2.pdb
+C:\Users\HP\Desktop\Slayt C#\if-elseif-if2\if-elseif-if2\obj\Debug\if-elseif-if2.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Slayt C#\if-elseif-if2\if-elseif-if2\obj\Debug\if_elseif_if2.Form1.resources
+C:\Users\HP\Desktop\Slayt C#\if-elseif-if2\if-elseif-if2\obj\Debug\if_elseif_if2.Properties.Resources.resources
+C:\Users\HP\Desktop\Slayt C#\if-elseif-if2\if-elseif-if2\obj\Debug\if-elseif-if2.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Slayt C#\if-elseif-if2\if-elseif-if2\obj\Debug\if-elseif-if2.exe
+C:\Users\HP\Desktop\Slayt C#\if-elseif-if2\if-elseif-if2\obj\Debug\if-elseif-if2.pdb

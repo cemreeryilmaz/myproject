@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\10_04_2015\Sınav Soruları Çözüm\C#\Soru_4\Soru_4\bin\Debug\Soru_4.exe.config
+C:\Users\Administrator\Desktop\10_04_2015\Sınav Soruları Çözüm\C#\Soru_4\Soru_4\bin\Debug\Soru_4.exe
+C:\Users\Administrator\Desktop\10_04_2015\Sınav Soruları Çözüm\C#\Soru_4\Soru_4\bin\Debug\Soru_4.pdb
+C:\Users\Administrator\Desktop\10_04_2015\Sınav Soruları Çözüm\C#\Soru_4\Soru_4\obj\Debug\Soru_4.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\10_04_2015\Sınav Soruları Çözüm\C#\Soru_4\Soru_4\obj\Debug\Soru_4.exe
+C:\Users\Administrator\Desktop\10_04_2015\Sınav Soruları Çözüm\C#\Soru_4\Soru_4\obj\Debug\Soru_4.pdb

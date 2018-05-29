@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\08_05_2015\Ornek_16\Ornek_16\bin\Debug\Ornek_16.exe.config
+C:\Users\Administrator\Desktop\08_05_2015\Ornek_16\Ornek_16\bin\Debug\Ornek_16.exe
+C:\Users\Administrator\Desktop\08_05_2015\Ornek_16\Ornek_16\bin\Debug\Ornek_16.pdb
+C:\Users\Administrator\Desktop\08_05_2015\Ornek_16\Ornek_16\obj\Debug\Ornek_16.Form1.resources
+C:\Users\Administrator\Desktop\08_05_2015\Ornek_16\Ornek_16\obj\Debug\Ornek_16.Properties.Resources.resources
+C:\Users\Administrator\Desktop\08_05_2015\Ornek_16\Ornek_16\obj\Debug\Ornek_16.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\08_05_2015\Ornek_16\Ornek_16\obj\Debug\Ornek_16.exe
+C:\Users\Administrator\Desktop\08_05_2015\Ornek_16\Ornek_16\obj\Debug\Ornek_16.pdb
+C:\Users\HP\Desktop\Dersler\C#\08_05_2015\Ornek_16\Ornek_16\bin\Debug\Ornek_16.exe.config
+C:\Users\HP\Desktop\Dersler\C#\08_05_2015\Ornek_16\Ornek_16\obj\Debug\Ornek_16.exe
+C:\Users\HP\Desktop\Dersler\C#\08_05_2015\Ornek_16\Ornek_16\obj\Debug\Ornek_16.pdb

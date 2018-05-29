@@ -1,0 +1,7 @@
+C:\Users\Orcun\Desktop\arel\c#\projeler_düzenli\superloto\superloto\bin\Debug\superloto.exe
+C:\Users\Orcun\Desktop\arel\c#\projeler_düzenli\superloto\superloto\bin\Debug\superloto.pdb
+C:\Users\Orcun\Desktop\arel\c#\projeler_düzenli\superloto\superloto\obj\x86\Debug\superloto.Form1.resources
+C:\Users\Orcun\Desktop\arel\c#\projeler_düzenli\superloto\superloto\obj\x86\Debug\superloto.Properties.Resources.resources
+C:\Users\Orcun\Desktop\arel\c#\projeler_düzenli\superloto\superloto\obj\x86\Debug\superloto.csproj.GenerateResource.Cache
+C:\Users\Orcun\Desktop\arel\c#\projeler_düzenli\superloto\superloto\obj\x86\Debug\superloto.exe
+C:\Users\Orcun\Desktop\arel\c#\projeler_düzenli\superloto\superloto\obj\x86\Debug\superloto.pdb

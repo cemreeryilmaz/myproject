@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\15_05_2015\Ornek_1\Ornek_1\bin\Debug\Ornek_1.exe.config
+C:\Users\Administrator\Desktop\15_05_2015\Ornek_1\Ornek_1\bin\Debug\Ornek_1.exe
+C:\Users\Administrator\Desktop\15_05_2015\Ornek_1\Ornek_1\bin\Debug\Ornek_1.pdb
+C:\Users\Administrator\Desktop\15_05_2015\Ornek_1\Ornek_1\obj\Debug\Ornek_1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\15_05_2015\Ornek_1\Ornek_1\obj\Debug\Ornek_1.Form1.resources
+C:\Users\Administrator\Desktop\15_05_2015\Ornek_1\Ornek_1\obj\Debug\Ornek_1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\15_05_2015\Ornek_1\Ornek_1\obj\Debug\Ornek_1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\15_05_2015\Ornek_1\Ornek_1\obj\Debug\Ornek_1.exe
+C:\Users\Administrator\Desktop\15_05_2015\Ornek_1\Ornek_1\obj\Debug\Ornek_1.pdb

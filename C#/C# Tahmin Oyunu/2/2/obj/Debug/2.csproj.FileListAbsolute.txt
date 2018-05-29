@@ -1,0 +1,20 @@
+C:\Users\Administrator\Desktop\huso\2\2\2\bin\Debug\2.exe.config
+C:\Users\Administrator\Desktop\huso\2\2\2\bin\Debug\2.exe
+C:\Users\Administrator\Desktop\huso\2\2\2\bin\Debug\2.pdb
+C:\Users\Administrator\Desktop\huso\2\2\2\obj\Debug\_2.Form1.resources
+C:\Users\Administrator\Desktop\huso\2\2\2\obj\Debug\_2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\huso\2\2\2\obj\Debug\2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\huso\2\2\2\obj\Debug\2.exe
+C:\Users\Administrator\Desktop\huso\2\2\2\obj\Debug\2.pdb
+F:\2\2\2\bin\Debug\2.exe.config
+F:\2\2\2\obj\Debug\2.exe
+F:\2\2\2\obj\Debug\2.pdb
+C:\Users\CmR\Desktop\Okul Projelerim\C#_2\C# Tahmin Oyunu\2\2\bin\Debug\2.exe.config
+C:\Users\CmR\Desktop\Okul Projelerim\C#_2\C# Tahmin Oyunu\2\2\bin\Debug\2.exe
+C:\Users\CmR\Desktop\Okul Projelerim\C#_2\C# Tahmin Oyunu\2\2\bin\Debug\2.pdb
+C:\Users\CmR\Desktop\Okul Projelerim\C#_2\C# Tahmin Oyunu\2\2\obj\Debug\_2.Form1.resources
+C:\Users\CmR\Desktop\Okul Projelerim\C#_2\C# Tahmin Oyunu\2\2\obj\Debug\_2.Properties.Resources.resources
+C:\Users\CmR\Desktop\Okul Projelerim\C#_2\C# Tahmin Oyunu\2\2\obj\Debug\2.csproj.GenerateResource.Cache
+C:\Users\CmR\Desktop\Okul Projelerim\C#_2\C# Tahmin Oyunu\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\CmR\Desktop\Okul Projelerim\C#_2\C# Tahmin Oyunu\2\2\obj\Debug\2.exe
+C:\Users\CmR\Desktop\Okul Projelerim\C#_2\C# Tahmin Oyunu\2\2\obj\Debug\2.pdb

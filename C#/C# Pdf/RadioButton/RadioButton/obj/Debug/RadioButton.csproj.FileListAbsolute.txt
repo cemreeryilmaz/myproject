@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\Slayt C#\RadioButton\RadioButton\bin\Debug\RadioButton.exe.config
+C:\Users\HP\Desktop\Slayt C#\RadioButton\RadioButton\bin\Debug\RadioButton.exe
+C:\Users\HP\Desktop\Slayt C#\RadioButton\RadioButton\bin\Debug\RadioButton.pdb
+C:\Users\HP\Desktop\Slayt C#\RadioButton\RadioButton\obj\Debug\RadioButton.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Slayt C#\RadioButton\RadioButton\obj\Debug\RadioButton.Form1.resources
+C:\Users\HP\Desktop\Slayt C#\RadioButton\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
+C:\Users\HP\Desktop\Slayt C#\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Slayt C#\RadioButton\RadioButton\obj\Debug\RadioButton.exe
+C:\Users\HP\Desktop\Slayt C#\RadioButton\RadioButton\obj\Debug\RadioButton.pdb

@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Yeni klasör\İnputBox\İnputBox\bin\Debug\İnputBox.exe.config
+C:\Users\Administrator\Desktop\Yeni klasör\İnputBox\İnputBox\bin\Debug\İnputBox.exe
+C:\Users\Administrator\Desktop\Yeni klasör\İnputBox\İnputBox\bin\Debug\İnputBox.pdb
+C:\Users\Administrator\Desktop\Yeni klasör\İnputBox\İnputBox\obj\Debug\İnputBox.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Yeni klasör\İnputBox\İnputBox\obj\Debug\İnputBox.Form1.resources
+C:\Users\Administrator\Desktop\Yeni klasör\İnputBox\İnputBox\obj\Debug\İnputBox.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Yeni klasör\İnputBox\İnputBox\obj\Debug\İnputBox.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Yeni klasör\İnputBox\İnputBox\obj\Debug\İnputBox.exe
+C:\Users\Administrator\Desktop\Yeni klasör\İnputBox\İnputBox\obj\Debug\İnputBox.pdb

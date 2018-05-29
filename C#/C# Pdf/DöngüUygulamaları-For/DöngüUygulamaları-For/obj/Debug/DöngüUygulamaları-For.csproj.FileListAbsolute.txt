@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Yeni klasör\DöngüUygulamaları-For\DöngüUygulamaları-For\bin\Debug\DöngüUygulamaları-For.exe.config
+C:\Users\Administrator\Desktop\Yeni klasör\DöngüUygulamaları-For\DöngüUygulamaları-For\bin\Debug\DöngüUygulamaları-For.exe
+C:\Users\Administrator\Desktop\Yeni klasör\DöngüUygulamaları-For\DöngüUygulamaları-For\bin\Debug\DöngüUygulamaları-For.pdb
+C:\Users\Administrator\Desktop\Yeni klasör\DöngüUygulamaları-For\DöngüUygulamaları-For\obj\Debug\DöngüUygulamaları_For.Form1.resources
+C:\Users\Administrator\Desktop\Yeni klasör\DöngüUygulamaları-For\DöngüUygulamaları-For\obj\Debug\DöngüUygulamaları_For.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Yeni klasör\DöngüUygulamaları-For\DöngüUygulamaları-For\obj\Debug\DöngüUygulamaları-For.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Yeni klasör\DöngüUygulamaları-For\DöngüUygulamaları-For\obj\Debug\DöngüUygulamaları-For.exe
+C:\Users\Administrator\Desktop\Yeni klasör\DöngüUygulamaları-For\DöngüUygulamaları-For\obj\Debug\DöngüUygulamaları-For.pdb

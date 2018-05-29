@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Yeni klasör\DoWhile\DoWhile\bin\Debug\DoWhile.exe.config
+C:\Users\Administrator\Desktop\Yeni klasör\DoWhile\DoWhile\bin\Debug\DoWhile.exe
+C:\Users\Administrator\Desktop\Yeni klasör\DoWhile\DoWhile\bin\Debug\DoWhile.pdb
+C:\Users\Administrator\Desktop\Yeni klasör\DoWhile\DoWhile\obj\Debug\DoWhile.Form1.resources
+C:\Users\Administrator\Desktop\Yeni klasör\DoWhile\DoWhile\obj\Debug\DoWhile.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Yeni klasör\DoWhile\DoWhile\obj\Debug\DoWhile.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Yeni klasör\DoWhile\DoWhile\obj\Debug\DoWhile.exe
+C:\Users\Administrator\Desktop\Yeni klasör\DoWhile\DoWhile\obj\Debug\DoWhile.pdb

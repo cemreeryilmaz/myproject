@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru_1\Soru_1\bin\Debug\Soru_1.exe.config
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru_1\Soru_1\obj\Debug\Soru_1.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru_1\Soru_1\obj\Debug\Soru_1.Form1.resources
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru_1\Soru_1\obj\Debug\Soru_1.Properties.Resources.resources
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru_1\Soru_1\obj\Debug\Soru_1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru_1\Soru_1\bin\Debug\Soru_1.exe
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru_1\Soru_1\bin\Debug\Soru_1.pdb
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru_1\Soru_1\obj\Debug\Soru_1.exe
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru_1\Soru_1\obj\Debug\Soru_1.pdb

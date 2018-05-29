@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Yeni klasör\While\While\bin\Debug\While.exe.config
+C:\Users\Administrator\Desktop\Yeni klasör\While\While\obj\Debug\While.Form1.resources
+C:\Users\Administrator\Desktop\Yeni klasör\While\While\obj\Debug\While.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Yeni klasör\While\While\obj\Debug\While.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Yeni klasör\While\While\bin\Debug\While.exe
+C:\Users\Administrator\Desktop\Yeni klasör\While\While\bin\Debug\While.pdb
+C:\Users\Administrator\Desktop\Yeni klasör\While\While\obj\Debug\While.exe
+C:\Users\Administrator\Desktop\Yeni klasör\While\While\obj\Debug\While.pdb

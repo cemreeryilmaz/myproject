@@ -1,0 +1,6 @@
+c:\users\development code's\documents\visual studio 2013\Projects\final5\final5\bin\Debug\final5.exe.config
+c:\users\development code's\documents\visual studio 2013\Projects\final5\final5\bin\Debug\final5.exe
+c:\users\development code's\documents\visual studio 2013\Projects\final5\final5\bin\Debug\final5.pdb
+c:\users\development code's\documents\visual studio 2013\Projects\final5\final5\obj\Debug\final5.csprojResolveAssemblyReference.cache
+c:\users\development code's\documents\visual studio 2013\Projects\final5\final5\obj\Debug\final5.exe
+c:\users\development code's\documents\visual studio 2013\Projects\final5\final5\obj\Debug\final5.pdb

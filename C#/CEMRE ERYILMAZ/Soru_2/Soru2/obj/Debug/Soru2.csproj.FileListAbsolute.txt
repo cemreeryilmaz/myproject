@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru2\Soru2\bin\Debug\Soru2.exe.config
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru2\Soru2\bin\Debug\Soru2.exe
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru2\Soru2\bin\Debug\Soru2.pdb
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru2\Soru2\obj\Debug\Soru2.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru2\Soru2\obj\Debug\Soru2.Form1.resources
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru2\Soru2\obj\Debug\Soru2.Properties.Resources.resources
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru2\Soru2\obj\Debug\Soru2.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru2\Soru2\obj\Debug\Soru2.exe
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru2\Soru2\obj\Debug\Soru2.pdb
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru_2\Soru2\bin\Debug\Soru2.exe.config
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru_2\Soru2\obj\Debug\Soru2.exe
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru_2\Soru2\obj\Debug\Soru2.pdb

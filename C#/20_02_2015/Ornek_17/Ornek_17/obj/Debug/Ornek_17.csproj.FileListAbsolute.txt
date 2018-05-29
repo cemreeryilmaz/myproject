@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\20_02_2015\Ornek_17\Ornek_17\bin\Debug\Ornek_17.exe.config
+C:\Users\Administrator\Desktop\20_02_2015\Ornek_17\Ornek_17\bin\Debug\Ornek_17.exe
+C:\Users\Administrator\Desktop\20_02_2015\Ornek_17\Ornek_17\bin\Debug\Ornek_17.pdb
+C:\Users\Administrator\Desktop\20_02_2015\Ornek_17\Ornek_17\obj\Debug\Ornek_17.exe
+C:\Users\Administrator\Desktop\20_02_2015\Ornek_17\Ornek_17\obj\Debug\Ornek_17.pdb

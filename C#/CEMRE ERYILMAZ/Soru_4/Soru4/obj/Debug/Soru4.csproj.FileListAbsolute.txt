@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru4\Soru4\bin\Debug\Soru4.exe.config
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru4\Soru4\bin\Debug\Soru4.exe
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru4\Soru4\bin\Debug\Soru4.pdb
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru4\Soru4\obj\Debug\Soru4.Form1.resources
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru4\Soru4\obj\Debug\Soru4.Properties.Resources.resources
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru4\Soru4\obj\Debug\Soru4.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru4\Soru4\obj\Debug\Soru4.exe
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru4\Soru4\obj\Debug\Soru4.pdb
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru_4\Soru4\bin\Debug\Soru4.exe.config
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru_4\Soru4\obj\Debug\Soru4.exe
+C:\Users\HP\Desktop\CEMRE ERYILMAZ\Soru_4\Soru4\obj\Debug\Soru4.pdb

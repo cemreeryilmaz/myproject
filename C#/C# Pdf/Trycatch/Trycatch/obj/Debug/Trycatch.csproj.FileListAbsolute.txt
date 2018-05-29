@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Yeni klasör\Trycatch\Trycatch\bin\Debug\Trycatch.exe.config
+C:\Users\Administrator\Desktop\Yeni klasör\Trycatch\Trycatch\bin\Debug\Trycatch.exe
+C:\Users\Administrator\Desktop\Yeni klasör\Trycatch\Trycatch\bin\Debug\Trycatch.pdb
+C:\Users\Administrator\Desktop\Yeni klasör\Trycatch\Trycatch\obj\Debug\Trycatch.Form1.resources
+C:\Users\Administrator\Desktop\Yeni klasör\Trycatch\Trycatch\obj\Debug\Trycatch.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Yeni klasör\Trycatch\Trycatch\obj\Debug\Trycatch.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Yeni klasör\Trycatch\Trycatch\obj\Debug\Trycatch.exe
+C:\Users\Administrator\Desktop\Yeni klasör\Trycatch\Trycatch\obj\Debug\Trycatch.pdb

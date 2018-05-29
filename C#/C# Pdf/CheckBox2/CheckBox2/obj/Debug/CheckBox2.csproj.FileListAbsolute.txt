@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\Slayt C#\CheckBox2\CheckBox2\bin\Debug\CheckBox2.exe.config
+C:\Users\HP\Desktop\Slayt C#\CheckBox2\CheckBox2\bin\Debug\CheckBox2.exe
+C:\Users\HP\Desktop\Slayt C#\CheckBox2\CheckBox2\bin\Debug\CheckBox2.pdb
+C:\Users\HP\Desktop\Slayt C#\CheckBox2\CheckBox2\obj\Debug\CheckBox2.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Slayt C#\CheckBox2\CheckBox2\obj\Debug\CheckBox2.Form1.resources
+C:\Users\HP\Desktop\Slayt C#\CheckBox2\CheckBox2\obj\Debug\CheckBox2.Properties.Resources.resources
+C:\Users\HP\Desktop\Slayt C#\CheckBox2\CheckBox2\obj\Debug\CheckBox2.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Slayt C#\CheckBox2\CheckBox2\obj\Debug\CheckBox2.exe
+C:\Users\HP\Desktop\Slayt C#\CheckBox2\CheckBox2\obj\Debug\CheckBox2.pdb
