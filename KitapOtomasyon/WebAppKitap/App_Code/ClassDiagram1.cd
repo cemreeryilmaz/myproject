@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WebAppKitap.Kitap" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkABAAJIAAQACCAGAAghAgAKAQAAAgAAAABUAAAAAAA=</HashCode>
+      <FileName>Kitap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppKitap.Yazar" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAIAAKCAAAAAgAAAAAAAAAACQAEIAgAAKAAAACACAAA=</HashCode>
+      <FileName>Yazar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppKitap.YayinEvi" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAACAACAAAAAAAAABAAAAAQAgQAAAIAABAAAABAAA=</HashCode>
+      <FileName>YayinEvi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppKitap.ÇaylakYazar">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ÇaylakYazar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
