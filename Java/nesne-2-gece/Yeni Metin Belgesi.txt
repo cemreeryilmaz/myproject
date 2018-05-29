@@ -1,0 +1,29 @@
+create table calýsan
+(
+calýsan_id  int not null identity(1,1),
+calýsan_adi varchar(30),
+ise_baslama_tarihi date,
+isten_ayrýlma_tarihi date,
+constraint pk_calýsan primary key (calýsan_id)
+);
+
+insert into calýsan values('Ahmet Ercan',CONVERT(date,'21-04-2012',105),null);
+insert into calýsan values('Seda Unlu',CONVERT(date,'18-03-1998',105),convert(date,'30-07-2010',105));
+insert into calýsan values('Figen Güçlü',CONVERT(date,'11-11-2013',105),null);
+insert into calýsan values('Sedat Kara',CONVERT(date,'15-12-2009',105),convert(date,'30-07-2010',105));
+
+
+create function dbo.calýsma_yilini_bul(@calýsan_id int)
+returns int 
+begin
+declare @calýsma_yili int;
+
+select @calýsma_yili=YEAR(ISNULL(isten_ayrýlma_tarihi,GETDATE()))-
+YEAR(ise_baslama_tarihi) from calýsan where calýsan_id=@calýsan_id;
+return @calýsma_yili;
+end;
+
+
+select 
+calýsan_adi,ise_baslama_tarihi,isten_ayrýlma_tarihi,dbo.calýsma_yilini_bul(calýsan_id)
+as CALISMA_YILI from calýsan;

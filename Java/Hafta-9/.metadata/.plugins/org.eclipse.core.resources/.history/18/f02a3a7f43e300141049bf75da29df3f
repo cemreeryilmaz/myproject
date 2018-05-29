@@ -1,0 +1,26 @@
+package sýnýflar;
+
+import java.awt.Color;
+
+public class Top {
+	
+	int elastikiyet;
+	double çap;
+	Color renk;
+	String hammadde;
+	
+	public Top(int e,double ç,Color r,String h){
+		elastikiyet=e;
+		çap=ç;
+		renk=r;
+		hammadde=h;
+	}
+	
+	public void zýpla(){
+		System.out.println("Top zýpladý.");
+	}
+	public void yuvarlan(){
+		System.out.println("Top yuvarlandý.");
+	}
+
+}

@@ -1,0 +1,13 @@
+package çöptoplayýcý;
+
+public class Çalýþan {
+	
+	String adsoyad;
+	int sicilno;
+	double maaþ;
+	String kurum;
+	
+	public void finalize(){
+		System.out.println("Nesne çöpü toplandý.");
+	}
+}

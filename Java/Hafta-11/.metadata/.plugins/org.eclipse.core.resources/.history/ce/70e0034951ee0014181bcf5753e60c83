@@ -1,0 +1,15 @@
+package thisvesuperkullanýmý;
+
+public class Er extends Asker {
+
+	public Er(String adsoyad, String rütbe, String sýnýf) {
+		super(adsoyad, rütbe, sýnýf);
+		// TODO Auto-generated constructor stub
+	}
+
+	public Er(String adsoyad, String rütbe, String sýnýf, double maaþ) {
+		super(adsoyad, rütbe, sýnýf, maaþ);
+		// TODO Auto-generated constructor stub
+	}
+
+}

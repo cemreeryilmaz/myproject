@@ -1,0 +1,12 @@
+package paket1;
+
+public class Program2 {
+
+	public static void main(String[] args) {
+		int sayý=10;//Primitive veri tipi
+		String isim="Arel";//Non-primitive veri tipi
+		System.out.print(isim.charAt(0));
+
+	}
+
+}

@@ -1,0 +1,18 @@
+package kalýtým;
+
+import java.awt.Color;
+
+public class BasketTopu extends Top{
+
+	double havabasýncý;
+	
+	public BasketTopu(Color r, double ç, String h) {
+		super(r, ç, h);
+	}
+	public void basketOl(){
+	System.out.println("Basket topu potaya girdi....");	
+	}
+	public void zýpla(){//Method Overriding
+		System.out.println("Basket topu zýpladý....");
+	}
+}

@@ -1,0 +1,16 @@
+package thisvesuperkullanýmý;
+
+public class Yüzbaþý extends Asker {
+
+	public Yüzbaþý(String adsoyad, String rütbe, String sýnýf) {
+		super(adsoyad, rütbe, sýnýf);//Üst sýnýfýn yapýlandýrýcý metodunu çaðýrýr.
+	}
+	
+	public Yüzbaþý(String adsoyad, String rütbe, String sýnýf, double maaþ) {
+		super(adsoyad, rütbe, sýnýf, maaþ);//Üst sýnýfýn yapýlandýrýcý metodunu çaðýrýr.
+	}
+	public void rütbeSöyle(){
+		System.out.println("Merhaba, ben "+this.rütbe+" üst sýnýfýmýn "
+				+ "rütbe özelliði:"+super.rütbe);
+	}
+}

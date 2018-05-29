@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+
+public class deneme {
+
+	public static void main(String[] args) {
+		Scanner klavye= new Scanner (System.in);
+	System.out.println("SAyý giriniz= ");
+	int sayi1=klavye.nextInt();
+	if(sayi1<10)
+	{System.out.println("küçük ");}else{
+	if(sayi1==10)
+	{System.out.println("eþit ");}else{
+	if(sayi1>10)
+	{System.out.println("büyük ");}else{
+	{System.out.println("yanlýþ giriþ ");}
+	
+	}
+		}
+			}
+	
+		}
+	}	
+
+				
+				
+				
+				
+				
+				

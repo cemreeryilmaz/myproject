@@ -1,0 +1,15 @@
+package statickullanýmý;
+
+public class Çalýþan {
+	
+	int sigortano;
+	String ad,soyad;
+	double maaþ;
+	String kurum="Arel Üniversitesi";
+	public Çalýþan(int sigortano, String ad, String soyad, double maaþ) {
+		this.sigortano = sigortano;
+		this.ad = ad;
+		this.soyad = soyad;
+		this.maaþ = maaþ;
+	}
+}

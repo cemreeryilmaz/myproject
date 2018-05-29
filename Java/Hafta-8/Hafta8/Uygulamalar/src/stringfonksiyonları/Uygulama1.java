@@ -1,0 +1,27 @@
+package stringfonksiyonlarý;
+
+import java.util.Scanner;
+
+public class Uygulama1 {
+
+	public static void main(String[] args) {
+		Scanner klavye=new Scanner(System.in);
+		System.out.println("Ýlk stringi giriniz:");
+		String ilkstring=klavye.nextLine();
+		System.out.println("Ýkinci stringi giriniz:");
+		String ikincistring=klavye.nextLine();
+		/*if(ilkstring.compareToIgnoreCase(ikincistring)==0){
+			System.out.println("Stringler birbirine eþit.");
+		}*/
+		if(ilkstring.equalsIgnoreCase(ikincistring)){
+			System.out.println("Stringler birbirine eþit.");
+		}
+		else if(ilkstring.compareToIgnoreCase(ikincistring)<0){
+			System.out.println("Ýlk string alfabetik olarak öncedir.");
+		}
+		else{
+			System.out.println("Ýkinci string alfabetik olarak öncedir.");
+		}
+		klavye.close();
+	}
+}

@@ -1,0 +1,11 @@
+package diziler;
+
+public class uygulama4 {
+
+	public static void main(String[] args)
+	{
+		int[][] dizi = new int[5][5];
+		
+	}
+
+}

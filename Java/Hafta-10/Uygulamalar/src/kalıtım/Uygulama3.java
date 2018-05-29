@@ -1,0 +1,20 @@
+package kalýtým;
+
+import çokbiçimlilik.Memur;
+import çokbiçimlilik.Müdür;
+import çokbiçimlilik.Çalýþan;
+import çokbiçimlilik.Öðretmen;
+
+public class Uygulama3 {
+
+	public static void main(String[] args) {
+		Çalýþan çalýþan=new Çalýþan(1234, "Ahmet", "Çalýþkan", 1500);
+		Müdür müdür=new Müdür(1235, "Hayri", "Bahtýkara", 4000);
+		Memur memur=new Memur(1236, "Hale", "Kara", 2000);
+		Öðretmen öðretmen=new Öðretmen(1237, "Abdulkadir", "Öðretir", 3000);
+		çalýþan.çalýþ();
+		müdür.çalýþ();//Metod Ezme
+		memur.çalýþ();//Metod Ezme
+		öðretmen.çalýþ();//Metod Ezme
+	}
+}

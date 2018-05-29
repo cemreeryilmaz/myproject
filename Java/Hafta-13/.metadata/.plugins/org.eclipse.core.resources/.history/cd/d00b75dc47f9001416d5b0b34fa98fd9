@@ -1,0 +1,11 @@
+package abstractkelimesi;
+
+public class Kedi extends Hayvan {
+
+	@Override
+	public void avlan() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

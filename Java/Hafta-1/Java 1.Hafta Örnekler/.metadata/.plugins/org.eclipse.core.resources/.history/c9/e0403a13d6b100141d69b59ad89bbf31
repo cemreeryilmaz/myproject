@@ -1,0 +1,14 @@
+package paket1;
+
+public class Program4 {
+	static boolean durum;
+	char karakter;
+	int sayý;
+	float ondalýklýsayý;
+	public static void main(String[] args) {
+		
+		System.out.println("Default boolean deðeri:"+durum);
+
+	}
+
+}

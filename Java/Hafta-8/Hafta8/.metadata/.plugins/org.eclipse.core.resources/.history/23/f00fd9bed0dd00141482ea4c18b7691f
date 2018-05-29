@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+
+public class Uygulama8 {
+
+	public static void main(String[] args) {
+		Scanner klavye=new Scanner(System.in);
+		System.out.println("Yaþýnýzý giriniz:");
+		String yaþ=klavye.nextLine();
+		int yaþ2;
+		try {
+			yaþ2=Integer.valueOf(yaþ);
+			System.out.println(yaþ2);
+		} catch (Exception e) {
+			System.out.println("Tamsayýya çevirmede istisna oluþtu.");
+		}
+
+	}
+
+}

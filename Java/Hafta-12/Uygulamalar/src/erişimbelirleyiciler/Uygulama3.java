@@ -1,0 +1,15 @@
+package eriþimbelirleyiciler;
+
+public class Uygulama3 {
+
+	public static void main(String[] args) {
+		Asker asker=new Asker();
+		asker.adsoyad="Ahmet Yýlmaz";
+		asker.rütbe="Yüzbaþý";
+		asker.sýnýf="Havacý";
+		//asker nesnesi private özellik olan maaþa ulaþamadý.
+		asker.bilgiVer();
+
+	}
+
+}

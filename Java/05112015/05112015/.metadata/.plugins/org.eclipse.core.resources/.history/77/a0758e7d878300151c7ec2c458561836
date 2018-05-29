@@ -1,0 +1,118 @@
+package hafta6;
+
+import java.awt.BorderLayout;
+import java.awt.EventQueue;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.border.EmptyBorder;
+import javax.swing.JTextField;
+import javax.swing.JFormattedTextField;
+import javax.swing.JLabel;
+import javax.swing.JButton;
+import javax.swing.JTable;
+import javax.swing.table.DefaultTableModel;
+import javax.swing.JScrollPane;
+
+public class Uygulama1 extends JFrame {
+
+	private JPanel contentPane;
+	private JTextField textField;
+	private JTextField textField_1;
+	private JTable table;
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					Uygulama1 frame = new Uygulama1();
+					frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the frame.
+	 */
+	public Uygulama1() {
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setBounds(100, 100, 450, 348);
+		contentPane = new JPanel();
+		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
+		setContentPane(contentPane);
+		contentPane.setLayout(null);
+		
+		textField = new JTextField();
+		textField.setBounds(10, 11, 160, 29);
+		contentPane.add(textField);
+		textField.setColumns(10);
+		
+		textField_1 = new JTextField();
+		textField_1.setColumns(10);
+		textField_1.setBounds(10, 51, 160, 29);
+		contentPane.add(textField_1);
+		
+		JFormattedTextField formattedTextField = new JFormattedTextField();
+		formattedTextField.setBounds(10, 91, 160, 29);
+		contentPane.add(formattedTextField);
+		
+		JLabel lblAd = new JLabel("Ad\u0131");
+		lblAd.setBounds(180, 11, 71, 29);
+		contentPane.add(lblAd);
+		
+		JLabel lblSoyad = new JLabel("Soyad\u0131");
+		lblSoyad.setBounds(180, 51, 71, 29);
+		contentPane.add(lblSoyad);
+		
+		JLabel lblTcNo = new JLabel("T.C. No.");
+		lblTcNo.setBounds(180, 91, 71, 29);
+		contentPane.add(lblTcNo);
+		
+		JButton btnEkle = new JButton("Ekle");
+		btnEkle.setBounds(290, 24, 89, 23);
+		contentPane.add(btnEkle);
+		
+		JButton btnSil = new JButton("Sil");
+		btnSil.setBounds(290, 57, 89, 23);
+		contentPane.add(btnSil);
+		
+		JButton btnGncelle = new JButton("G\u00FCncelle");
+		btnGncelle.setBounds(290, 91, 89, 23);
+		contentPane.add(btnGncelle);
+		
+		JScrollPane scrollPane = new JScrollPane();
+		scrollPane.setBounds(4, 155, 375, 155);
+		contentPane.add(scrollPane);
+		
+		table = new JTable();
+		scrollPane.setViewportView(table);
+		table.setModel(new DefaultTableModel(
+			new Object[][] {
+				{null, null, null},
+				{null, null, null},
+				{null, null, null},
+				{null, null, null},
+				{null, null, null},
+				{null, null, null},
+				{null, null, null},
+				{null, null, null},
+				{null, null, null},
+				{null, null, null},
+				{null, null, null},
+				{null, null, null},
+				{null, null, null},
+				{null, null, null},
+				{null, null, null},
+			},
+			new String[] {
+				"Ad\u0131", "Soyad\u0131", "T.C. No."
+			}
+		));
+	}
+}

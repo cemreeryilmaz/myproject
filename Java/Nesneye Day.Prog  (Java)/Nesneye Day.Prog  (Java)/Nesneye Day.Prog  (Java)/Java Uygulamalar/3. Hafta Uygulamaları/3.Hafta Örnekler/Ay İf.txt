@@ -1,0 +1,44 @@
+import java.util.Scanner;
+
+
+public class deneme {
+
+	public static void main(String[] args) {
+		Scanner klavye= new Scanner (System.in);
+	System.out.println("1 ile 12 arasi sayi giriiz= ");
+	int sayi=klavye.nextInt();
+	if(sayi == 1) {
+	System.out.println("Ocak ");
+	}else if(sayi == 2) {
+	System.out.println("Þubat ");
+	}else if(sayi == 3) {
+	System.out.println("Mart ");
+	}else if(sayi == 4) {
+	System.out.println("Nisan ");
+	}else if(sayi == 5) {
+	System.out.println("Mayýs ");
+	}else if(sayi == 6) {
+	System.out.println("Haziran ");
+	}else if(sayi == 7) {
+	System.out.println("Temmuz");
+	}else if(sayi == 8) {
+	System.out.println("Agustos ");
+	}else if(sayi == 9) {
+	System.out.println("Eylül ");
+	}else if(sayi == 10) {
+	System.out.println("Ekim ");
+	}else if(sayi == 11) {
+	System.out.println("Kasým ");
+	}else if(sayi == 12) {
+	System.out.println("Aralýk ");
+}else{System.out.println("HATALÝ GÝRÝÞ... ");}
+	
+
+		}
+	}	
+
+				
+				
+				
+				
+				

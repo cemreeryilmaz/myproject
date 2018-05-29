@@ -1,0 +1,15 @@
+package çöptoplayýcý;
+
+public class Uygulama1 {
+
+	public static void main(String[] args) {
+		Çalýþan çalýþan=new Çalýþan();
+		çalýþan.adsoyad="Hakan Kurt";
+		System.out.println("Çalýþanýn adý soyadý:"+çalýþan.adsoyad);
+		System.out.println("Boþ memory:"+Runtime.getRuntime().freeMemory());
+		//çalýþan=null;//nesnenin referansý silindi.
+		çalýþan=new Çalýþan();//nesnenin referansý silindi.
+		System.gc();		
+		System.out.println("Boþ memory:"+Runtime.getRuntime().freeMemory());
+	}
+}

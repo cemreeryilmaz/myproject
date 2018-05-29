@@ -1,0 +1,11 @@
+package abstractkelimesi;
+
+public abstract class Hayvan {
+	
+	public abstract void avlan();//Soyut metot
+	
+	public void beslen(){
+		System.out.println("Hayvan beslendi.");
+	}
+
+}

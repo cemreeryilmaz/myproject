@@ -1,0 +1,21 @@
+package kalýtým;
+
+public class Çalýþan {
+	
+	int sigortano;
+	String ad;
+	String soyad;
+	double maaþ;
+	
+	public Çalýþan(int sno,String ad,String s,double m){
+		sigortano=sno;
+		this.ad=ad;
+		soyad=s;
+		maaþ=m;
+	}
+	
+	public void çalýþ(){
+		System.out.println("Çalýþan çalýþtý.");
+	}
+
+}

@@ -1,0 +1,9 @@
+package thisvesuperkullanýmý;
+
+public class General extends Asker {
+
+	public General(double maaþ, String sýnýf, String adsoyad) {
+		super(maaþ, sýnýf, adsoyad);
+	}
+
+}

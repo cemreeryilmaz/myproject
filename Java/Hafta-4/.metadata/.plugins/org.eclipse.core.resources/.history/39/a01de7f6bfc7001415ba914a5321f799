@@ -1,0 +1,36 @@
+package kararyapýlarý;
+
+import java.util.Scanner;
+
+public class Uygulama1 {
+
+	public static void main(String[] args) {
+		Scanner klavye=new Scanner(System.in);
+		System.out.println("0 ile 100 arasý bir sayý giriniz:");
+		int sayý=klavye.nextInt();
+		if(sayý<=29){
+			System.out.println("FF");
+		}
+		else if(sayý<=39){
+			System.out.println("DD");
+		}
+		else if(sayý<=49){
+			System.out.println("DC");
+		}
+		else if(sayý<=60){
+			System.out.println("CC");
+		}
+		else if(sayý<=70){
+			System.out.println("CB");
+		}
+		else if(sayý<=80){
+			System.out.println("BB");
+		}
+		else if(sayý<=89){
+			System.out.println("BA");
+		}
+		else if(sayý<=100){
+			System.out.println("AA");
+		}
+	}
+}

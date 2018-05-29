@@ -1,0 +1,7 @@
+package buttonlar;
+
+import javax.swing.ButtonGroup;
+
+public class ButtonGrubu extends ButtonGroup {
+
+}

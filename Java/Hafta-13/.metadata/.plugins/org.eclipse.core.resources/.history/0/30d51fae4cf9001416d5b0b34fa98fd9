@@ -1,0 +1,13 @@
+package interfacesýnýflar;
+
+public class Uygulama3 {
+
+	public static void main(String[] args) {
+		Aslan aslan=new Aslan();
+		Kedi kedi=new Kedi();
+		aslan.avlan();
+		aslan.beslen();
+		kedi.avlan();
+		kedi.beslen();
+	}
+}

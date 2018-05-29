@@ -1,0 +1,15 @@
+package kompozisyon;
+
+public class Çalýþan {
+	
+	String adsoyad;
+	String kurum;
+	int sicilno;
+	double maaþ;
+	Adres adres=new Adres();
+	
+	public void çalýþ(){
+		System.out.println("Çalýþan görevini yerine getirdi.");
+	}
+
+}

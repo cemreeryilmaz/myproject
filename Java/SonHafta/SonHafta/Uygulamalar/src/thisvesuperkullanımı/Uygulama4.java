@@ -1,0 +1,10 @@
+package thisvesuperkullanýmý;
+
+public class Uygulama4 {
+
+	public static void main(String[] args) {
+		Öðretmen öðretmen=new Öðretmen("Hale Gür",12345,2390);
+		öðretmen.konuþ();
+	}
+
+}

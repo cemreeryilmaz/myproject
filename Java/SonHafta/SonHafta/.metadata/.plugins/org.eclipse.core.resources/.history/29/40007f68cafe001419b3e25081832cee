@@ -1,0 +1,15 @@
+package thisvesuperkullanýmý;
+
+public class Öðretmen extends Çalýþan {
+
+	public Öðretmen(String adsoyad, int sicilno, double maaþ) {
+		super(adsoyad, sicilno, maaþ);
+		// TODO Auto-generated constructor stub
+	}
+
+	public Öðretmen(String adsoyad, int sicilno, double maaþ, String kurum) {
+		super(adsoyad, sicilno, maaþ, kurum);
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,13 @@
+package dýþpaket;
+
+import eriþimbelirleyiciler.Asker;
+
+public class Uygulama5 {
+
+	public static void main(String[] args) {
+		Asker asker=new Asker();
+		asker.setMaaþ(3000);
+		System.out.println("Askerin maaþý:"+asker.getMaaþ());
+	}
+
+}

@@ -1,0 +1,22 @@
+package metotlar;
+
+import java.util.Scanner;
+
+public class Uygulama3 {
+
+	public static void main(String[] args) {
+		Scanner klavye=new Scanner(System.in);
+		System.out.println("Birinci sayýyý giriniz:");
+		int sayý1=klavye.nextInt();
+		System.out.println("Ýkinci sayýyý giriniz:");
+		int sayý2=klavye.nextInt();
+		çarpýmYap(sayý1,sayý2);
+
+	}
+
+	public static  void çarpýmYap(int sayý1, int sayý2) {
+		System.out.println("Sonuç:"+sayý1*sayý2);
+		
+	}
+
+}

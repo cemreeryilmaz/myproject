@@ -1,0 +1,21 @@
+package diziler;
+
+import java.util.Random;
+
+public class uygulama1 {
+
+	public static void main(String[] args) {
+		Random rnd = new Random();
+		int[]dizi=new int[10];
+		for(int i = 0; i< dizi.length; i++);
+			{
+				dizi[i]=rnd.nextInt(100);
+			}
+			for (int i = 0; i < dizi.length; i++) 
+			{
+				System.out.println(dizi[i]+"\n");
+			}
+
+	}
+
+}

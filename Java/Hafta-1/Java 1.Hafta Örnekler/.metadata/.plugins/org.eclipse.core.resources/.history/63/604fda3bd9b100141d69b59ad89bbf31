@@ -1,0 +1,15 @@
+package paket1;
+
+public class Program6 {
+
+	public static void main(String[] args) {
+		
+		double ondalýklýsayý1=1.12345;
+		float ondalýklýsayý2=1.12345F;
+		/*float deðiþken tanýmlarken deðerin sonunda küçük yada
+		büyük f harfi konulmalýdýr.*/
+		System.out.println("Double deðer:"+ondalýklýsayý1);
+		System.out.println("Float deðer:"+ondalýklýsayý2);
+	}
+
+}

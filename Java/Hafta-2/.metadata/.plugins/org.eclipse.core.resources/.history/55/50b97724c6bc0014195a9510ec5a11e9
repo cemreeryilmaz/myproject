@@ -1,0 +1,19 @@
+package operatörler;
+
+import java.util.Scanner;
+
+public class Uygulama1 {
+
+	public static void main(String[] args) {
+		
+		Scanner klavye=new Scanner(System.in);
+		System.out.println("Ýlk sayýyý giriniz:");
+		int sayý1=klavye.nextInt();
+		System.out.println("Ýkinci sayýyý giriniz:");
+		int sayý2=klavye.nextInt();
+		int sonuç=sayý1*sayý2;
+		System.out.println("Ýki sayýnýn çarpýmý:"+sonuç);
+
+	}
+
+}

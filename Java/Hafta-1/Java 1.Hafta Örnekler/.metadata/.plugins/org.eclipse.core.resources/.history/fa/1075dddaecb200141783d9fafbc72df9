@@ -1,0 +1,12 @@
+package paket1;
+
+public class yazý {
+
+	public static void main(String[] args) {
+		@SuppressWarnings("unused")
+		int sonuc=15+63;
+		System.out.println("sonuc:"+sonuc);
+
+	}
+
+}

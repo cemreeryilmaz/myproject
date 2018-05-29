@@ -1,0 +1,5 @@
+package çoklukalıtım;
+
+public interface İdareci {
+
+}

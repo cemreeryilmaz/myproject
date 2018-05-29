@@ -1,0 +1,11 @@
+package kalýtým;
+
+public class Öðretmen extends Çalýþan{
+
+	public Öðretmen(int sno, String ad, String s, double m) {
+		super(sno, ad, s, m);
+	}
+	/*public void çalýþ(){
+		System.out.println("Öðretmen derse girdi...");
+	}*/
+}

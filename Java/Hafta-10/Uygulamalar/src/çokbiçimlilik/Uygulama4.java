@@ -1,0 +1,12 @@
+package çokbiçimlilik;
+
+
+public class Uygulama4 {
+
+	public static void main(String[] args) {
+		Öðretmen öðretmen1=new Öðretmen(1234,"Mehmet","Kaya",2300);
+		Çalýþan öðretmen2=new Öðretmen(1235,"Sema","Yavuz",2400);
+		System.out.println(öðretmen1.branþ);
+		öðretmen2.çalýþ();
+	}
+}

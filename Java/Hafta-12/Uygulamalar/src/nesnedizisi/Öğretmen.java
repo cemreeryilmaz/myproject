@@ -1,0 +1,13 @@
+package nesnedizisi;
+
+public class Öðretmen extends Çalýþan {
+
+	
+	public void bilgiVer(){
+		System.out.println("Ben "+this.adsoyad+" maaþým:"+this.maaþ+
+		" sicilnumaram:"+this.sicilno);
+	}
+	public void çalýþ(){
+		System.out.println("Öðretmen derse girdi.");
+	}
+}

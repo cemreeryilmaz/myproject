@@ -1,0 +1,47 @@
+import java.util.Scanner;
+
+
+public class deneme {
+
+	public static void main(String[] args) {
+		Scanner klavye= new Scanner (System.in);
+	System.out.println("SAyı giriniz= ");
+	int sayi=klavye.nextInt();
+	if(sayi >=0 && sayi <=39)
+	{
+		System.out.println("FF ");	
+	}else if(sayi >=40 && sayi <=44)
+	{
+		System.out.println("DD ");	
+	}else if(sayi >=45 && sayi <=49)
+	{
+		System.out.println("DC ");	
+	}else if(sayi >=50 && sayi <=64)
+	{
+		System.out.println("CC ");	
+	}else if(sayi >=65 && sayi <=74)
+	{
+		System.out.println("CB ");	
+	}else if(sayi >=75 && sayi <=84)
+	{
+		System.out.println("BB ");	
+	}else if(sayi >=85 && sayi <=90)
+	{
+		System.out.println("BA ");	
+	}else if(sayi >=91 && sayi <=100)
+	{
+		System.out.println("AA ");	
+	}else {System.out.println("HATALİ GİRİŞ... ");}
+		
+	
+	
+	
+		}
+	}	
+
+				
+				
+				
+				
+				
+				

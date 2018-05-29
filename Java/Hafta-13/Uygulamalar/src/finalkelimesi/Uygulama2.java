@@ -1,0 +1,12 @@
+package finalkelimesi;
+
+public class Uygulama2 {
+
+	public static void main(String[] args) {
+		Çalýþan çalýþan2=new Çalýþan();
+		//çalýþan2.kurum="Ýst.Üni.";
+		//kurum özelliði final olduðu için deðiþtirilmesine izin verilmedi.
+		çalýþan2.çalýþ();
+	}
+
+}

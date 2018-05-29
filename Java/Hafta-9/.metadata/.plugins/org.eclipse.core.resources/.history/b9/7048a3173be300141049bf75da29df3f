@@ -1,0 +1,12 @@
+package sýnýflar;
+
+public class Uygulama1 {
+
+	public static void main(String[] args) {
+		Top top1=new Top();
+		System.out.println("Top1 nesnesinin elastikiyet özelliði:"+top1.elastikiyet);
+		System.out.println("Top1 nesnesinin çap özelliði:"+top1.çap);
+		System.out.println("Top1 nesnesinin hammadde özelliði:"+top1.hammadde);
+		System.out.println("Top1 nesnesinin renk özelliði:"+top1.renk);
+	}
+}

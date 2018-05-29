@@ -1,0 +1,81 @@
+package buttonlar;
+
+import java.awt.BorderLayout;
+import java.awt.EventQueue;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.Timer;
+import javax.swing.border.EmptyBorder;
+import javax.swing.JToggleButton;
+import javax.swing.JTextField;
+
+public class Uygulama_5 extends JFrame {
+
+	private JPanel contentPane;
+	private JTextField textField;
+	Timer t;
+	int sayac;
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					Uygulama_5 frame = new Uygulama_5();
+					frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the frame.
+	 */
+	public Uygulama_5() {
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setBounds(100, 100, 344, 129);
+		contentPane = new JPanel();
+		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
+		setContentPane(contentPane);
+		contentPane.setLayout(null);
+		
+		final JToggleButton tglbtnNewToggleButton = new JToggleButton("Ba\u015Fla / Durdur");
+		tglbtnNewToggleButton.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				if (tglbtnNewToggleButton.isSelected()) {
+					t.start();
+				}
+				else {
+					t.stop();
+				}
+			}
+		});
+		tglbtnNewToggleButton.setBounds(10, 22, 168, 54);
+		contentPane.add(tglbtnNewToggleButton);
+		
+		textField = new JTextField();
+		textField.setEditable(false);
+		textField.setBounds(188, 22, 108, 54);
+		contentPane.add(textField);
+		textField.setColumns(10);
+		
+		ActionListener iþ = new ActionListener() {
+			
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				sayac++;
+				textField.setText(sayac+"");
+				
+			}
+		};
+		t = new Timer(250,iþ);
+	}
+
+}

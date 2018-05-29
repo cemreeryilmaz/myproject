@@ -1,0 +1,20 @@
+package bittabanlýoperatörler;
+
+import java.util.Scanner;
+
+public class Uygulama2 {
+
+	public static void main(String[] args) {
+		Scanner klavye=new Scanner(System.in);
+		System.out.println("Birinci sayýyý giriniz:");
+		byte sayý1=klavye.nextByte();
+		System.out.println("Ýkinci sayýyý giriniz:");
+		byte sayý2=klavye.nextByte();
+		System.out.println("Ýki sayýnýn AND iþlemi sonucu:"+(byte) (sayý1&sayý2));
+		System.out.println("Ýki sayýnýn OR iþlemi sonucu:"+(byte) (sayý1|sayý2));
+		System.out.println("Ýki sayýnýn XOR iþlemi sonucu:"+(byte) (sayý1^sayý2));
+		System.out.println("Birinci sayýnýn tersi:"+~sayý1);
+		System.out.println("Ýkinci sayýnýn tersi:"+~sayý2);
+		klavye.close();
+	}
+}

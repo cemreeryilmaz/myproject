@@ -1,0 +1,26 @@
+package metotlar;
+
+import java.util.Scanner;
+
+public class Uygulama7 {
+
+	public static void main(String[] args) {
+		Scanner klavye=new Scanner(System.in);
+		System.out.println("Bir sayı giriniz:");
+		int sayı=klavye.nextInt();
+		int denememiktarı=0;
+		sayıyıBul(sayı,denememiktarı);
+	}
+
+	private static void sayıyıBul(int sayı, int denememiktarı) {
+		int rasgelesayı=(int) (Math.random()*100);
+		if(rasgelesayı!=sayı){
+			denememiktarı++;
+			sayıyıBul(sayı,denememiktarı);
+		}
+		else
+			System.out.println("Aranan sayı bulundu,deneme miktarı:"+denememiktarı);
+			
+	}
+
+}

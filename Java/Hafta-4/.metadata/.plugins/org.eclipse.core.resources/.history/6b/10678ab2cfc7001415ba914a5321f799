@@ -1,0 +1,15 @@
+package döngüler;
+
+import java.util.Scanner;
+
+public class Uygulama5 {
+
+	public static void main(String[] args) {
+		Scanner klavye=new Scanner (System.in);
+		System.out.println("Bir sayý giriniz.");
+		int sayý=klavye.nextInt();
+		for (int i = sayý; i >= 0; i--) {
+			System.out.println(i);			
+		}
+	}
+}

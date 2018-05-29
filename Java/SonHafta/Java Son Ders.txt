@@ -1,0 +1,93 @@
+GARBAGE COLLECTOR (ÇÖP TOPLAYICI)
+
+* Nesne,referansý olmadýðý zaman çöp olur.
+
+1-) nesne = null; (referansý yok)
+
+2-) Sýnýf nesne = new Sýnýf();
+	.
+	.
+   (nesne) 	.
+	.
+	.
+nesne = new Sýnýf();
+
+Çöp "System.gc();" koduyla toplanýr..
+
+* gc() metodu,nesnenin finalize metodunu çaðýrýr.
+
+
+		NESNE SERÝLEÞTÝRME
+		(OBJECT SERIAUZATION)
+
+* Nesnenin bir dosyaya kaydedilmesini saðlar..
+
+ObjectOutputStream sýnýfýndan bir nesne oluþturulur,ObjectOutputStream sýnýfýnýn yapýlandýrýcý metodu FileOutputStream
+sýnýfýndan bir nesneyi parametre olarak alýr.
+
+* FileOutputStream sýnýfýndan nesne oluþturulurken dosya ismi parametre olarak belirlenir.
+
+* ObjectOutputStream sýnýfýndan oluþturulmuþ nesne sayesinde WriteObject metodu ile nesne belirtilen dosyaya yazýlmýþ olur.
+
+* dosya proje klasörü içerisinde ise isim ve uzantýsý ile ulaþýlabilir.
+
+* Serileþtirme yapabilmek için serileþtirilecek nesenin sýnýfýnýn Serializable sýnýfýndan kalýtýlmýþ olmasý gerekir.
+
+* ObjectInputStream sýnfýndan bir nesne üretilir,nesne FileInputStream sýnýfýndan bir nesneyi parametre olarak kullanýr.
+
+* FileInputStream sýnýfýndan oluþturulmuþ nesne File Sýnýfýndan oluþturulmuþ bir nesneyi kullanýr bu nesnenin dosya özelliði vardýr.
+
+
+			KONU TEKRARI
+ 
+
+	    THIS KELÝMESÝ				SUPER KELÝMESÝ
+1-)Sýnýfýn içerisinde sýnýfa ait özelliði çaðýrýr.	       1-)Üst Sýnýfýn özelliðini çaðýrýr.
+2-)Sýnýfýn içerisinde sýnýfa ait metodu çaðýrýr.	       2-)Üst Sýnýfýn metodunu çaðýrýr.
+3-)Sýnýfýn içerisinden yapýlandýrýcý metodu çaðýrýr.	       3-)Üst Sýnýfýn yapýlandýrýcý metodunu çaðýrýr.	
+
+
+		ÇOKLU KALITIM
+
+ * Interface sýnýflardan kalýtýlan alt sýnýflarda,interface sýnýflarýn içersinde bulunan metodlarýn ovveride edilmesi zorunludur.
+
+* Interface sýnýflardan nesne üretilmez,ancak intner type olarak yazýlabilir.
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

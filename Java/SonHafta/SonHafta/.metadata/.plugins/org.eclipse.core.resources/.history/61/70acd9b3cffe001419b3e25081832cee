@@ -1,0 +1,11 @@
+package çoklukalýtým;
+
+public class Uygulama5 {
+
+	public static void main(String[] args) {
+		MüdürYardýmcýsý mdryrd=new MüdürYardýmcýsý();
+		mdryrd.çalýþ();
+
+	}
+
+}
