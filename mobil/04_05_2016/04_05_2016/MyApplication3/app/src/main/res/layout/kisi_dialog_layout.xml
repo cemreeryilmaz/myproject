@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:layout_marginTop="20dp"
+        android:id="@+id/edtAd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ad"/>
+
+    <EditText
+        android:layout_marginTop="10dp"
+        android:id="@+id/edtSoyad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Soyad"/>
+
+    <RadioGroup
+        android:paddingLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rdErkek"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ERKEK"
+            android:checked="true"/>
+
+        <RadioButton
+            android:id="@+id/rdKadın"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="KADIN"/>
+
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_marginTop="25dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btnIptal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="İptal"
+            android:layout_weight="0.5"/>
+
+        <Button
+            android:id="@+id/btnTamam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tamam"
+            android:layout_weight="0.5"/>
+
+    </LinearLayout>
+
+</LinearLayout>
