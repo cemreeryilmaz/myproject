@@ -1,0 +1,19 @@
+﻿@model CustomerListViewModel
+
+@{
+    ViewBag.Title = "title";
+}
+
+<h2>Customer List</h2>
+
+<table class="table table-responsive">
+    @foreach (var customer in Model.Customers)
+    {
+    <tr>
+        <td>@customer.CustomerFirstName</td>
+        <td>@customer.CustomerLastName</td>
+        <td>@customer.CustomerAddress</td>
+        <td>@customer.CustomerCity</td>
+    </tr>
+    }
+</table>

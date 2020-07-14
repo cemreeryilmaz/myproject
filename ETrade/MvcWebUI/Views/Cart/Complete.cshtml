@@ -1,0 +1,42 @@
+﻿@model ShippingDetailViewModel
+
+    <form asp-controller="Cart" asp-action="Complete">
+
+        <div class="form-group">
+            <label asp-for="ShippingDetail.FirstName">Ad</label>
+            <input asp-for="ShippingDetail.FirstName" class="form-control" placeholder="Müşteri Adınız" />
+            <span asp-validation-for="ShippingDetail.FirstName"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ShippingDetail.LastName">Soyad</label>
+            <input asp-for="ShippingDetail.LastName" class="form-control" placeholder="Müşteri Soyadınız" />
+            <span asp-validation-for="ShippingDetail.LastName"></span>
+        </div>
+        
+        <div class="form-group">
+            <label asp-for="ShippingDetail.Email">E-Mail</label>
+            <input asp-for="ShippingDetail.Email" class="form-control" placeholder="E-Mail Hesabınız"/>
+            <span asp-validation-for="ShippingDetail.Email"></span>
+        </div>
+        
+        <div class="form-group">
+            <label asp-for="ShippingDetail.Age">Yaş</label>
+            <input asp-for="ShippingDetail.Age" class="form-control" placeholder="Yaşınız"/>
+            <span asp-validation-for="ShippingDetail.Age"></span>
+        </div>
+        
+        <div class="form-group">
+            <label asp-for="ShippingDetail.City">Şehir</label>
+            <input asp-for="ShippingDetail.City" class="form-control" placeholder="Şehriniz"/>
+            <span asp-validation-for="ShippingDetail.City"></span>
+        </div>
+        
+        <div class="form-group">
+            <label asp-for="ShippingDetail.Address">Adres</label>
+            <input asp-for="ShippingDetail.Address" class="form-control" placeholder="Adresiniz"/>
+            <span asp-validation-for="ShippingDetail.Address"></span>
+        </div>
+        
+        <input type="submit" value="Kaydet" class="btn btn-success"/>
+    </form>

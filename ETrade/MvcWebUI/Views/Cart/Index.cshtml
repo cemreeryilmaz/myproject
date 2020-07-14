@@ -1,0 +1,41 @@
+﻿@using Entities.Concrete
+@model CartListViewModel
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Sepet</h2>
+
+@if (Model.Cart.CartLines.Count == 0)
+{
+    <h2 class="badge badge-danger">Sepet Boş</h2>
+}
+else
+{
+    <table class="table table-responsive">
+        <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Price</th>
+            <th>Stock</th>
+            <th>Quantity</th>
+        </tr>
+        </thead>
+        @foreach (var cartLine in Model.Cart.CartLines)
+        {
+            <tr>
+                <td>@cartLine.Product.ProductName</td>
+                <td>@cartLine.Product.ProductPrice</td>
+                <td>@cartLine.Product.ProductStock</td>
+                <td>@cartLine.Product.ProductQuantity</td>
+                <td><a class="btn btn-sm btn-danger" asp-controller="Cart" asp-action="RemoveFromCart" asp-route-productId="@cartLine.Product.ProductId">Sil</a></td>
+            </tr>
+        }
+
+       
+    </table>
+
+    <a class="btn btn-sm btn-success" asp-controller="Cart" asp-action="Complete">Alışverişi Tamamla</a>
+}
