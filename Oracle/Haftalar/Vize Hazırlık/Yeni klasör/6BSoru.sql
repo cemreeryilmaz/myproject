@@ -1,1 +1,0 @@
-select * from ebru.bolumler where(bolum_adi='BT' or bolum_adý='PAZARLAMA');

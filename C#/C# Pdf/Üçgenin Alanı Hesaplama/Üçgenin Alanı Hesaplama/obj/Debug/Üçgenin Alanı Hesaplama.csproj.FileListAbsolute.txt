@@ -1,8 +1,0 @@
-C:\Users\HP\Desktop\Slayt C#\Üçgenin Alanı Hesaplama\Üçgenin Alanı Hesaplama\bin\Debug\Üçgenin Alanı Hesaplama.exe.config
-C:\Users\HP\Desktop\Slayt C#\Üçgenin Alanı Hesaplama\Üçgenin Alanı Hesaplama\bin\Debug\Üçgenin Alanı Hesaplama.exe
-C:\Users\HP\Desktop\Slayt C#\Üçgenin Alanı Hesaplama\Üçgenin Alanı Hesaplama\bin\Debug\Üçgenin Alanı Hesaplama.pdb
-C:\Users\HP\Desktop\Slayt C#\Üçgenin Alanı Hesaplama\Üçgenin Alanı Hesaplama\obj\Debug\Üçgenin_Alanı_Hesaplama.Form1.resources
-C:\Users\HP\Desktop\Slayt C#\Üçgenin Alanı Hesaplama\Üçgenin Alanı Hesaplama\obj\Debug\Üçgenin_Alanı_Hesaplama.Properties.Resources.resources
-C:\Users\HP\Desktop\Slayt C#\Üçgenin Alanı Hesaplama\Üçgenin Alanı Hesaplama\obj\Debug\Üçgenin Alanı Hesaplama.csproj.GenerateResource.Cache
-C:\Users\HP\Desktop\Slayt C#\Üçgenin Alanı Hesaplama\Üçgenin Alanı Hesaplama\obj\Debug\Üçgenin Alanı Hesaplama.exe
-C:\Users\HP\Desktop\Slayt C#\Üçgenin Alanı Hesaplama\Üçgenin Alanı Hesaplama\obj\Debug\Üçgenin Alanı Hesaplama.pdb

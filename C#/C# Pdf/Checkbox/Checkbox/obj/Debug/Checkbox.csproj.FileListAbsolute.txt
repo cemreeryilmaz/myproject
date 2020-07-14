@@ -1,9 +1,0 @@
-C:\Users\HP\Desktop\Slayt C#\Checkbox\Checkbox\bin\Debug\Checkbox.exe.config
-C:\Users\HP\Desktop\Slayt C#\Checkbox\Checkbox\bin\Debug\Checkbox.exe
-C:\Users\HP\Desktop\Slayt C#\Checkbox\Checkbox\bin\Debug\Checkbox.pdb
-C:\Users\HP\Desktop\Slayt C#\Checkbox\Checkbox\obj\Debug\Checkbox.csprojResolveAssemblyReference.cache
-C:\Users\HP\Desktop\Slayt C#\Checkbox\Checkbox\obj\Debug\Checkbox.Form1.resources
-C:\Users\HP\Desktop\Slayt C#\Checkbox\Checkbox\obj\Debug\Checkbox.Properties.Resources.resources
-C:\Users\HP\Desktop\Slayt C#\Checkbox\Checkbox\obj\Debug\Checkbox.csproj.GenerateResource.Cache
-C:\Users\HP\Desktop\Slayt C#\Checkbox\Checkbox\obj\Debug\Checkbox.exe
-C:\Users\HP\Desktop\Slayt C#\Checkbox\Checkbox\obj\Debug\Checkbox.pdb

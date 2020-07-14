@@ -1,9 +1,0 @@
-C:\Users\HP\Desktop\Slayt C#\Listbox\Listbox\bin\Debug\Listbox.exe.config
-C:\Users\HP\Desktop\Slayt C#\Listbox\Listbox\bin\Debug\Listbox.exe
-C:\Users\HP\Desktop\Slayt C#\Listbox\Listbox\bin\Debug\Listbox.pdb
-C:\Users\HP\Desktop\Slayt C#\Listbox\Listbox\obj\Debug\Listbox.csprojResolveAssemblyReference.cache
-C:\Users\HP\Desktop\Slayt C#\Listbox\Listbox\obj\Debug\Listbox.Form1.resources
-C:\Users\HP\Desktop\Slayt C#\Listbox\Listbox\obj\Debug\Listbox.Properties.Resources.resources
-C:\Users\HP\Desktop\Slayt C#\Listbox\Listbox\obj\Debug\Listbox.csproj.GenerateResource.Cache
-C:\Users\HP\Desktop\Slayt C#\Listbox\Listbox\obj\Debug\Listbox.exe
-C:\Users\HP\Desktop\Slayt C#\Listbox\Listbox\obj\Debug\Listbox.pdb

@@ -1,1 +1,0 @@
-select min(maas)"En Düþük Maaþ",max(maas)"En Yüksek Maaþ",avg(maas)"Maaþ Ortalamasý" from ebru.calisanlar;

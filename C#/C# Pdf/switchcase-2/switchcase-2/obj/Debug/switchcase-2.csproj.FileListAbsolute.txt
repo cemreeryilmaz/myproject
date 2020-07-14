@@ -1,8 +1,0 @@
-C:\Users\Administrator\Desktop\Yeni klasör\switchcase-2\switchcase-2\bin\Debug\switchcase-2.exe.config
-C:\Users\Administrator\Desktop\Yeni klasör\switchcase-2\switchcase-2\bin\Debug\switchcase-2.exe
-C:\Users\Administrator\Desktop\Yeni klasör\switchcase-2\switchcase-2\bin\Debug\switchcase-2.pdb
-C:\Users\Administrator\Desktop\Yeni klasör\switchcase-2\switchcase-2\obj\Debug\switchcase_2.Form1.resources
-C:\Users\Administrator\Desktop\Yeni klasör\switchcase-2\switchcase-2\obj\Debug\switchcase_2.Properties.Resources.resources
-C:\Users\Administrator\Desktop\Yeni klasör\switchcase-2\switchcase-2\obj\Debug\switchcase-2.csproj.GenerateResource.Cache
-C:\Users\Administrator\Desktop\Yeni klasör\switchcase-2\switchcase-2\obj\Debug\switchcase-2.exe
-C:\Users\Administrator\Desktop\Yeni klasör\switchcase-2\switchcase-2\obj\Debug\switchcase-2.pdb

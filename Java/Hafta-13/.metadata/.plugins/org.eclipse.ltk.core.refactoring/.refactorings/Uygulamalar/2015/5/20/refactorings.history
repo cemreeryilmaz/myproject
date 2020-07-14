@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy 2 elements to &apos;Uygulamalar/src/finalkelimesi&apos;&#x0D;&#x0A;- Original project: &apos;Uygulamalar&apos;&#x0D;&#x0A;- Destination element: &apos;Uygulamalar/src/finalkelimesi&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     kompozisyon.Adres.java&#x0D;&#x0A;     kompozisyon.Çalışan.java" description="Copy compilation units" destination="/src&lt;finalkelimesi" element1="/src&lt;kompozisyon{Adres.java" element2="/src&lt;kompozisyon{Çalışan.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1431500989789" units="2" version="1.0"/>
-</session>

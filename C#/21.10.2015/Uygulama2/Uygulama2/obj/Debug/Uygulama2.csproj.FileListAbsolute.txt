@@ -1,9 +1,0 @@
-C:\Users\Administrator\Desktop\Uygulama\Uygulama2\Uygulama2\bin\Debug\Uygulama2.exe.config
-C:\Users\Administrator\Desktop\Uygulama\Uygulama2\Uygulama2\bin\Debug\Uygulama2.exe
-C:\Users\Administrator\Desktop\Uygulama\Uygulama2\Uygulama2\bin\Debug\Uygulama2.pdb
-C:\Users\Administrator\Desktop\Uygulama\Uygulama2\Uygulama2\obj\Debug\Uygulama2.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Desktop\Uygulama\Uygulama2\Uygulama2\obj\Debug\Uygulama2.Form1.resources
-C:\Users\Administrator\Desktop\Uygulama\Uygulama2\Uygulama2\obj\Debug\Uygulama2.Properties.Resources.resources
-C:\Users\Administrator\Desktop\Uygulama\Uygulama2\Uygulama2\obj\Debug\Uygulama2.csproj.GenerateResource.Cache
-C:\Users\Administrator\Desktop\Uygulama\Uygulama2\Uygulama2\obj\Debug\Uygulama2.exe
-C:\Users\Administrator\Desktop\Uygulama\Uygulama2\Uygulama2\obj\Debug\Uygulama2.pdb

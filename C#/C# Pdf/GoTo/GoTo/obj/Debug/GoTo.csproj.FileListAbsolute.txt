@@ -1,9 +1,0 @@
-C:\Users\HP\Desktop\Slayt C#\GoTo\GoTo\bin\Debug\GoTo.exe.config
-C:\Users\HP\Desktop\Slayt C#\GoTo\GoTo\obj\Debug\GoTo.csprojResolveAssemblyReference.cache
-C:\Users\HP\Desktop\Slayt C#\GoTo\GoTo\obj\Debug\GoTo.Form1.resources
-C:\Users\HP\Desktop\Slayt C#\GoTo\GoTo\obj\Debug\GoTo.Properties.Resources.resources
-C:\Users\HP\Desktop\Slayt C#\GoTo\GoTo\obj\Debug\GoTo.csproj.GenerateResource.Cache
-C:\Users\HP\Desktop\Slayt C#\GoTo\GoTo\bin\Debug\GoTo.exe
-C:\Users\HP\Desktop\Slayt C#\GoTo\GoTo\bin\Debug\GoTo.pdb
-C:\Users\HP\Desktop\Slayt C#\GoTo\GoTo\obj\Debug\GoTo.exe
-C:\Users\HP\Desktop\Slayt C#\GoTo\GoTo\obj\Debug\GoTo.pdb

@@ -1,9 +1,0 @@
-C:\Users\HP\Desktop\Slayt C#\FormKayıtUygulamaları\FormKayıtUygulamaları\bin\Debug\FormKayıtUygulamaları.exe.config
-C:\Users\HP\Desktop\Slayt C#\FormKayıtUygulamaları\FormKayıtUygulamaları\obj\Debug\FormKayıtUygulamaları.csprojResolveAssemblyReference.cache
-C:\Users\HP\Desktop\Slayt C#\FormKayıtUygulamaları\FormKayıtUygulamaları\obj\Debug\FormKayıtUygulamaları.Form1.resources
-C:\Users\HP\Desktop\Slayt C#\FormKayıtUygulamaları\FormKayıtUygulamaları\obj\Debug\FormKayıtUygulamaları.Properties.Resources.resources
-C:\Users\HP\Desktop\Slayt C#\FormKayıtUygulamaları\FormKayıtUygulamaları\obj\Debug\FormKayıtUygulamaları.csproj.GenerateResource.Cache
-C:\Users\HP\Desktop\Slayt C#\FormKayıtUygulamaları\FormKayıtUygulamaları\bin\Debug\FormKayıtUygulamaları.exe
-C:\Users\HP\Desktop\Slayt C#\FormKayıtUygulamaları\FormKayıtUygulamaları\bin\Debug\FormKayıtUygulamaları.pdb
-C:\Users\HP\Desktop\Slayt C#\FormKayıtUygulamaları\FormKayıtUygulamaları\obj\Debug\FormKayıtUygulamaları.exe
-C:\Users\HP\Desktop\Slayt C#\FormKayıtUygulamaları\FormKayıtUygulamaları\obj\Debug\FormKayıtUygulamaları.pdb

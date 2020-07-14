@@ -1,9 +1,0 @@
-C:\Users\HP\Desktop\Slayt C#\RadioButton2\RadioButton2\bin\Debug\RadioButton2.exe.config
-C:\Users\HP\Desktop\Slayt C#\RadioButton2\RadioButton2\bin\Debug\RadioButton2.exe
-C:\Users\HP\Desktop\Slayt C#\RadioButton2\RadioButton2\bin\Debug\RadioButton2.pdb
-C:\Users\HP\Desktop\Slayt C#\RadioButton2\RadioButton2\obj\Debug\RadioButton2.csprojResolveAssemblyReference.cache
-C:\Users\HP\Desktop\Slayt C#\RadioButton2\RadioButton2\obj\Debug\RadioButton2.Form1.resources
-C:\Users\HP\Desktop\Slayt C#\RadioButton2\RadioButton2\obj\Debug\RadioButton2.Properties.Resources.resources
-C:\Users\HP\Desktop\Slayt C#\RadioButton2\RadioButton2\obj\Debug\RadioButton2.csproj.GenerateResource.Cache
-C:\Users\HP\Desktop\Slayt C#\RadioButton2\RadioButton2\obj\Debug\RadioButton2.exe
-C:\Users\HP\Desktop\Slayt C#\RadioButton2\RadioButton2\obj\Debug\RadioButton2.pdb

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move 4 elements to &apos;çokbiçimlilik.Uygulama4.java&apos;&#x0D;&#x0A;- Original project: &apos;Uygulamalar&apos;&#x0D;&#x0A;- Destination element: &apos;çokbiçimlilik.Uygulama4.java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     kalıtım.Memur.java&#x0D;&#x0A;     kalıtım.Müdür.java&#x0D;&#x0A;     kalıtım.Öğretmen.java&#x0D;&#x0A;     kalıtım.Çalışan.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;çokbiçimlilik{Uygulama4.java" element1="/src&lt;kalıtım{Memur.java" element2="/src&lt;kalıtım{Müdür.java" element3="/src&lt;kalıtım{Öğretmen.java" element4="/src&lt;kalıtım{Çalışan.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1429693713656" units="4" version="1.0"/>
-</session>

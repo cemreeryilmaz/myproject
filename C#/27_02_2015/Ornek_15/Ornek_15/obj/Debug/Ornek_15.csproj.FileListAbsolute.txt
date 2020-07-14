@@ -1,5 +1,0 @@
-C:\Users\Administrator\Desktop\27_02_2015\Ornek_15\Ornek_15\bin\Debug\Ornek_15.exe.config
-C:\Users\Administrator\Desktop\27_02_2015\Ornek_15\Ornek_15\bin\Debug\Ornek_15.exe
-C:\Users\Administrator\Desktop\27_02_2015\Ornek_15\Ornek_15\bin\Debug\Ornek_15.pdb
-C:\Users\Administrator\Desktop\27_02_2015\Ornek_15\Ornek_15\obj\Debug\Ornek_15.exe
-C:\Users\Administrator\Desktop\27_02_2015\Ornek_15\Ornek_15\obj\Debug\Ornek_15.pdb

@@ -1,1 +1,0 @@
-select * from ebru.lokasyonlar where upper(sehir) in('ISTANBUL','ANKARA','ADANA');

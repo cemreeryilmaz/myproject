@@ -1,5 +1,0 @@
-package abstractkelimesi;
-
-public class Aslan extends Hayvan {
-
-}

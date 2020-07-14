@@ -1,7 +1,0 @@
-C:\Users\Administrator\Desktop\AracSatisSis\DataAccesArac\bin\Debug\DataAccesArac.dll
-C:\Users\Administrator\Desktop\AracSatisSis\DataAccesArac\bin\Debug\DataAccesArac.pdb
-C:\Users\Administrator\Desktop\AracSatisSis\DataAccesArac\obj\Debug\DataAccesArac.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Desktop\AracSatisSis\DataAccesArac\obj\Debug\DataAccesArac.dll
-C:\Users\Administrator\Desktop\AracSatisSis\DataAccesArac\obj\Debug\DataAccesArac.pdb
-C:\Users\Administrator\Desktop\AracSatisSis\DataAccesArac\bin\Debug\BusinessArac.dll
-C:\Users\Administrator\Desktop\AracSatisSis\DataAccesArac\bin\Debug\BusinessArac.pdb

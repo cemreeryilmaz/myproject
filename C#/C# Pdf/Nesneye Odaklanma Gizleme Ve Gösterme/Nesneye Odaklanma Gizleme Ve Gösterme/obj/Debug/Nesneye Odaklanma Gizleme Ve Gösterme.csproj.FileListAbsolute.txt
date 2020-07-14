@@ -1,8 +1,0 @@
-C:\Users\HP\Desktop\Slayt C#\Nesneye Odaklanma Gizleme Ve Gösterme\Nesneye Odaklanma Gizleme Ve Gösterme\bin\Debug\Nesneye Odaklanma Gizleme Ve Gösterme.exe.config
-C:\Users\HP\Desktop\Slayt C#\Nesneye Odaklanma Gizleme Ve Gösterme\Nesneye Odaklanma Gizleme Ve Gösterme\bin\Debug\Nesneye Odaklanma Gizleme Ve Gösterme.exe
-C:\Users\HP\Desktop\Slayt C#\Nesneye Odaklanma Gizleme Ve Gösterme\Nesneye Odaklanma Gizleme Ve Gösterme\bin\Debug\Nesneye Odaklanma Gizleme Ve Gösterme.pdb
-C:\Users\HP\Desktop\Slayt C#\Nesneye Odaklanma Gizleme Ve Gösterme\Nesneye Odaklanma Gizleme Ve Gösterme\obj\Debug\Nesneye_Odaklanma_Gizleme_Ve_Gösterme.Form1.resources
-C:\Users\HP\Desktop\Slayt C#\Nesneye Odaklanma Gizleme Ve Gösterme\Nesneye Odaklanma Gizleme Ve Gösterme\obj\Debug\Nesneye_Odaklanma_Gizleme_Ve_Gösterme.Properties.Resources.resources
-C:\Users\HP\Desktop\Slayt C#\Nesneye Odaklanma Gizleme Ve Gösterme\Nesneye Odaklanma Gizleme Ve Gösterme\obj\Debug\Nesneye Odaklanma Gizleme Ve Gösterme.csproj.GenerateResource.Cache
-C:\Users\HP\Desktop\Slayt C#\Nesneye Odaklanma Gizleme Ve Gösterme\Nesneye Odaklanma Gizleme Ve Gösterme\obj\Debug\Nesneye Odaklanma Gizleme Ve Gösterme.exe
-C:\Users\HP\Desktop\Slayt C#\Nesneye Odaklanma Gizleme Ve Gösterme\Nesneye Odaklanma Gizleme Ve Gösterme\obj\Debug\Nesneye Odaklanma Gizleme Ve Gösterme.pdb

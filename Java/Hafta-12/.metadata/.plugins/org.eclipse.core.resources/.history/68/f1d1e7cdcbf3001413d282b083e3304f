@@ -1,7 +1,0 @@
-package dýþpaket;
-
-import eriþimbelirleyiciler.Asker;
-
-public class Binbaþý extends Asker {
-
-}

@@ -1,6 +1,0 @@
-C:\Users\Administrator\Desktop\06_03_2015\Ornek_1\Ornek_1\bin\Debug\Ornek_1.exe.config
-C:\Users\Administrator\Desktop\06_03_2015\Ornek_1\Ornek_1\bin\Debug\Ornek_1.exe
-C:\Users\Administrator\Desktop\06_03_2015\Ornek_1\Ornek_1\bin\Debug\Ornek_1.pdb
-C:\Users\Administrator\Desktop\06_03_2015\Ornek_1\Ornek_1\obj\Debug\Ornek_1.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Desktop\06_03_2015\Ornek_1\Ornek_1\obj\Debug\Ornek_1.exe
-C:\Users\Administrator\Desktop\06_03_2015\Ornek_1\Ornek_1\obj\Debug\Ornek_1.pdb

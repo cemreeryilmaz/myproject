@@ -1,5 +1,0 @@
-C:\Users\Administrator\Desktop\AracSatisSis\BusinessArac\bin\Debug\BusinessArac.dll
-C:\Users\Administrator\Desktop\AracSatisSis\BusinessArac\bin\Debug\BusinessArac.pdb
-C:\Users\Administrator\Desktop\AracSatisSis\BusinessArac\obj\Debug\BusinessArac.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Desktop\AracSatisSis\BusinessArac\obj\Debug\BusinessArac.dll
-C:\Users\Administrator\Desktop\AracSatisSis\BusinessArac\obj\Debug\BusinessArac.pdb

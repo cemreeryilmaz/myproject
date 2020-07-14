@@ -1,9 +1,0 @@
-C:\Users\HP\Desktop\Slayt C#\İf-else-İf\İf-else-İf\bin\Debug\İf-else-İf.exe.config
-C:\Users\HP\Desktop\Slayt C#\İf-else-İf\İf-else-İf\bin\Debug\İf-else-İf.exe
-C:\Users\HP\Desktop\Slayt C#\İf-else-İf\İf-else-İf\bin\Debug\İf-else-İf.pdb
-C:\Users\HP\Desktop\Slayt C#\İf-else-İf\İf-else-İf\obj\Debug\İf-else-İf.csprojResolveAssemblyReference.cache
-C:\Users\HP\Desktop\Slayt C#\İf-else-İf\İf-else-İf\obj\Debug\İf_else_İf.Form1.resources
-C:\Users\HP\Desktop\Slayt C#\İf-else-İf\İf-else-İf\obj\Debug\İf_else_İf.Properties.Resources.resources
-C:\Users\HP\Desktop\Slayt C#\İf-else-İf\İf-else-İf\obj\Debug\İf-else-İf.csproj.GenerateResource.Cache
-C:\Users\HP\Desktop\Slayt C#\İf-else-İf\İf-else-İf\obj\Debug\İf-else-İf.exe
-C:\Users\HP\Desktop\Slayt C#\İf-else-İf\İf-else-İf\obj\Debug\İf-else-İf.pdb

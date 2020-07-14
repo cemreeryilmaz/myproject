@@ -1,9 +1,0 @@
-C:\Users\HP\Desktop\Slayt C#\MerhabaDünya\MerhabaDünya\bin\Debug\MerhabaDünya.exe.config
-C:\Users\HP\Desktop\Slayt C#\MerhabaDünya\MerhabaDünya\bin\Debug\MerhabaDünya.exe
-C:\Users\HP\Desktop\Slayt C#\MerhabaDünya\MerhabaDünya\bin\Debug\MerhabaDünya.pdb
-C:\Users\HP\Desktop\Slayt C#\MerhabaDünya\MerhabaDünya\obj\Debug\MerhabaDünya.csprojResolveAssemblyReference.cache
-C:\Users\HP\Desktop\Slayt C#\MerhabaDünya\MerhabaDünya\obj\Debug\MerhabaDünya.Form1.resources
-C:\Users\HP\Desktop\Slayt C#\MerhabaDünya\MerhabaDünya\obj\Debug\MerhabaDünya.Properties.Resources.resources
-C:\Users\HP\Desktop\Slayt C#\MerhabaDünya\MerhabaDünya\obj\Debug\MerhabaDünya.csproj.GenerateResource.Cache
-C:\Users\HP\Desktop\Slayt C#\MerhabaDünya\MerhabaDünya\obj\Debug\MerhabaDünya.exe
-C:\Users\HP\Desktop\Slayt C#\MerhabaDünya\MerhabaDünya\obj\Debug\MerhabaDünya.pdb
